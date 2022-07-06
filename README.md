@@ -2,4 +2,4 @@
 
 My First Flutter project.
 
-where I Show HelloWorld in Application
+where I Show HelloWorld in the Application
