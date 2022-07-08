@@ -1,20 +1,14 @@
 About The Project
 
-I am Start Studing On Flutter and Start my journey on flutter please follow me for 
-
+I am Start Studing On Flutter and Start my journey on flutter please follow me on my Journey of Flutter
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Getting Started
-Prerequisites
-
-My First Flutter Application.
-
-where I Show HelloWorld in the Application
-
 These are the list of things you need to install these softwares.
 
 Fultter
 Vs code
 Android studio
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 About App
 
 Basically its shows HelloWorld On Device Screen.
