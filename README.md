@@ -5,9 +5,9 @@ I am Start Studing On Flutter and Start my journey on flutter please follow me o
 Getting Started
 These are the list of things you need to install these softwares.
 
-Fultter
-Vs code
-Android studio
+1. Fultter
+2. Vs code
+3. Android studio
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 About App
 
